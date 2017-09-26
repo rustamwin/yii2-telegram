@@ -19,13 +19,12 @@
   },
   "autoload": {
     "psr-4": {
-      "modules\\telegram\\": ""
+      "rustam95\\telegram\\": ""
     }
   },
   "extra": {
-    "asset-installer-paths": {
-      "npm-asset-library": "vendor/npm",
-      "bower-asset-library": "vendor/bower"
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
     }
   }
 }
