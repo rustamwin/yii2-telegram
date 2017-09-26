@@ -15,7 +15,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Run
 
 
-    composer require modules/yii2-telegram
+    composer require rustam95/yii2-telegram
 
  
  add to your web config:
@@ -48,11 +48,6 @@ Run
              'BOT_NAME' => 'YourBotName_bot',
          ]
      ],       
-
-run migrations:
-
-    php yii migrate --migrationPath=@vendor/modules/yii2-telegram/migrations #that add 4 tables in your DB
-
 
 go to https://yourhost.com/telegram/default/set-webhook
 

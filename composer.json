@@ -1,5 +1,5 @@
 {
-  "name": "modules/yii2-telegram",
+  "name": "rustam95/yii2-telegram",
   "description": "Support chat for site based on Telegram bot",
   "type": "yii2-extension",
   "keywords": ["yii2","extension","module","chat", "telegram", "bot"],
@@ -8,8 +8,8 @@
     {
       "name": "Rustam Mamadaminov",
       "email": "rmamdaminov@gmail.com",
-      "homepage": "http://activemedia.uz",
-      "role": "Developer"
+      "homepage": "http://www.activemedia.uz",
+      "role": "Web Developer"
     }
   ],
   "require": {
