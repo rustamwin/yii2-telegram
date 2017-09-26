@@ -1,6 +1,5 @@
 {
   "name": "rustam95/yii2-telegram",
-  "version": "1.0.1",
   "description": "Support chat for site based on Telegram bot",
   "type": "yii2-extension",
   "keywords": ["yii2","extension","module","chat", "telegram", "bot"],
@@ -21,11 +20,6 @@
   "autoload": {
     "psr-4": {
       "rustam95\\telegram\\": ""
-    }
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "1.0.x-dev"
     }
   }
 }
