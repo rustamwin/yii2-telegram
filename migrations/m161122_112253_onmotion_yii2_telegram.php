@@ -1,9 +1,8 @@
 <?php
 /**
-  * @copyright Copyright &copy; Rustam Mamadaminov (RustamWin)
-  * @package   telegram
-  * Date: 09.06.2017
-  */
+ * @copyright Copyright (c) 2017. ActiveMedia Solutions LLC
+ * @author    Rustam Mamadaminov <rmamdaminov@gmail.com>
+ */
 use yii\db\Migration;
 
 class m161122_112253_modules_yii2_telegram extends Migration

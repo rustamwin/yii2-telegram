@@ -1,3 +1,8 @@
+/*
+ * @copyright Copyright (c) 2017. ActiveMedia Solutions LLC
+ * @author    Rustam Mamadaminov <rmamdaminov@gmail.com>
+ */
+
 /**
  * Created by kozhevnikov on 02.08.2016.
  */
